@@ -1,0 +1,14 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'org.oggcoin.wallet'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'org.oggcoin.wallet'
+        minSdk 24
+        targetSdk 35
+        versionCode 10
+        versionName '1.0.0'
+    }
+}

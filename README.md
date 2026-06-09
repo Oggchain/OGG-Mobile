@@ -114,6 +114,22 @@ Join the OGG tribe:
 
 ---
 
+## 🧪 Open Source
+
+The OGG Android Master Tool source code is open source.
+All app details, wallet logic, RPC connection, staking functions, Tribe Pool actions, UI files, and build workflow are visible inside this repository.
+
+OGG tools are built to connect directly to Oggchain:
+
+- No hidden backend.
+- No third-party wallet service.
+- No app store dependency.
+- No command line needed.
+
+Everything important happens on-chain.
+
+Ogg say: open cave, open code. 🪨
+
 ## ⚠️ Disclaimer
 
 OGG Android Master Tool is provided for community use.
